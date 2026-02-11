@@ -7,6 +7,9 @@ TNTP version prepared by Hillel Bar-Gera.
 
 Via: [http://www.bgu.ac.il/~bargera/tntp/](http://www.bgu.ac.il/~bargera/tntp/)  
 
+
+In February, 2026, Philipp Warode and Michael Markl added latitude and longitude coordinates to the nodes by manually annotating several points (see https://github.com/bstabler/TransportationNetworks/pull/64).
+
 ## Scenario
 
 
@@ -25,7 +28,7 @@ Trips: 168222.301999998980000
 
 ## Units
 Time:
-Distance: 
+Distance: meters
 Speed: 
 Cost: 
 
